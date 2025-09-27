@@ -57,9 +57,3 @@ I focus on pragmatic security, applied ML, and helping newcomers build cool stuf
     width="100%"
     alt="activity graph">
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WanderingAstronomer/WanderingAstronomer/output/snake.svg" alt="Snake animation">
-</p>
